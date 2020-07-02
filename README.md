@@ -1,2 +1,2 @@
-Logs of DGPLUG summer training 2020
+Reading links from the logs of DGPLUG summer training 2020
 -----
