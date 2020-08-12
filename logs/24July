@@ -1,0 +1,10 @@
+The Boot Process:
+
+1. Installing QEMU - https://www.qemu.org/download/
+2. Understanding Boot sector - https://github.com/cfenollosa/os-tutorial/tree/master/01-bootsector-barebones
+3. What is BIOS - https://www.youtube.com/watch?v=ncUmWthHrU0
+4. More in-depth about Boot Sector, read chapter 2 - https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf
+
+
+
+
